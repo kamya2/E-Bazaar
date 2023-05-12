@@ -1,8 +1,8 @@
 ## About the project
-E-Bazaar is a full-fledged online shopping website that aims to provide a seamless and user-friendly shopping experience to customers. The website offers a wide range of products across various categories, allowing users to browse, select, and purchase items conveniently from the comfort of their homes.
-![Screenshot (238)](https://github.com/kamya2/E-Bazaar/assets/59176544/c4df552f-0d67-489a-8260-d3ef0779669b)
 
-==========================================================================================================================================================================
+E-Bazaar is a full-fledged online shopping website that aims to provide a seamless and user-friendly shopping experience to customers. The website offers a wide range of products across various categories, allowing users to browse, select, and purchase items conveniently from the comfort of their homes.
+
+![Screenshot (238)](https://github.com/kamya2/E-Bazaar/assets/59176544/c4df552f-0d67-489a-8260-d3ef0779669b)
 
 # Ecommerce Frontend
 
