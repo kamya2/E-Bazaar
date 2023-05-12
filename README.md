@@ -1,3 +1,9 @@
+## About the project
+E-Bazaar is a full-fledged online shopping website that aims to provide a seamless and user-friendly shopping experience to customers. The website offers a wide range of products across various categories, allowing users to browse, select, and purchase items conveniently from the comfort of their homes.
+![Screenshot (238)](https://github.com/kamya2/E-Bazaar/assets/59176544/c4df552f-0d67-489a-8260-d3ef0779669b)
+
+==========================================================================================================================================================================
+
 # Ecommerce Frontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
@@ -27,7 +33,5 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 ===========================================================================================================================================================================
 
-#About the project
-E-Bazaar is a full-fledged online shopping website that aims to provide a seamless and user-friendly shopping experience to customers. The website offers a wide range of products across various categories, allowing users to browse, select, and purchase items conveniently from the comfort of their homes.
-![Screenshot (238)](https://github.com/kamya2/E-Bazaar/assets/59176544/c4df552f-0d67-489a-8260-d3ef0779669b)
+
 
